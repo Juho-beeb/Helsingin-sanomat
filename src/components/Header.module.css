@@ -1,0 +1,23 @@
+.header {
+    background-color: rgb(0, 31, 92);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.container {
+    display: flex;
+    color: rgb(253, 253, 253);
+    align-items: center;
+    margin-left: 10%;
+    margin-right: 20%;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.brand {
+    margin-right: 10%;
+    font-size: 25px;
+    font-weight: 700;
+    font-family: cursive;
+    white-space: nowrap;
+}
